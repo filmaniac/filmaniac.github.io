@@ -131,10 +131,10 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 360px) {
+		@media screen and (max-width: 500px) {
 
 			html {
-				font-size: 6pt;
+				font-size: 7pt;
 			}
 
 		}
