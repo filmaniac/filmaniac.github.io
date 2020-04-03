@@ -131,10 +131,10 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 360px) {
+		@media screen and (max-width: 500px) {
 
 			html {
-				font-size: 10pt;
+				font-size: 9pt;
 			}
 
 		}
@@ -1560,7 +1560,7 @@ input, select, textarea {
 			padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
 			position: relative;
 			width: 40rem;
-			max-width: 90%;
+			max-width: 100%;
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
 			opacity: 0;
