@@ -3138,7 +3138,7 @@ input, select, textarea {
 
 				#footer footer .copyright li {
 					border-left: 0;
-					display: block;
+					display: none;
 					margin: 0;
 					padding: 0;
 				}
