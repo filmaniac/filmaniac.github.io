@@ -1,1 +1,1 @@
-# filmaniac.github.io
+블로그에 접속하기 전의 페이지
