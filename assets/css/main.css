@@ -2999,7 +2999,7 @@ input, select, textarea {
 				}
 
 			.main .goto-next {
-				display: none;
+				display: block;
 			}
 
 		/* Header */
