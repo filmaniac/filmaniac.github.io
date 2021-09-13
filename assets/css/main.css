@@ -2999,7 +2999,7 @@ input, select, textarea {
 				}
 
 			.main .goto-next {
-				display: block;
+				display: none;
 			}
 
 		/* Header */
@@ -3025,7 +3025,7 @@ input, select, textarea {
 					}
 
 				#header .container {
-					display: block;
+					display: none;
 				}
 
 		/* Footer */
@@ -3138,7 +3138,7 @@ input, select, textarea {
 
 				#footer footer .copyright li {
 					border-left: 0;
-					display: none;
+					display: block;
 					margin: 0;
 					padding: 0;
 				}
